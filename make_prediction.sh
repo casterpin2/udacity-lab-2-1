@@ -1,9 +1,6 @@
-#!/usr/bin/env bash
-
-PORT=5000
+PORT=8000
 echo "Port: $PORT"
 
-#aaaaa
 # POST method predict
 curl -d '{  
    "CHAS":{  
