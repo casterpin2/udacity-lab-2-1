@@ -1,0 +1,1 @@
+locust -f locustfile.py --host https://flask-app-tuyennn3.azurewebsites.net/
