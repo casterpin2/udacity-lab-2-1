@@ -79,14 +79,6 @@ udacity@Azure:~$ ./make_predict_azure_app.sh
 <img src="./evidence/locust_report.PNG" width="100%" />
 </p>
 
-## Enhancements
-
-<TODO: A short description of how to improve the project in the future>
-- UI design 
-- Pipeline improvement
-- ML model upgrade
-## Demo 
-
 <TODO: Add link Screencast on YouTube>
 https://youtu.be/9mTjxxCEV2M
 
