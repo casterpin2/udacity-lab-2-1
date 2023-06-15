@@ -2,7 +2,7 @@
 
 Building a CI/CD Pipeline in Udacity Cloud DevOps using Microsoft Azure course
 
-[![Python application test with Github Actions]()
+[![Python application test with Github Actions](https://github.com/casterpin2/udacity-lab-2-1/actions/runs/5281667488)
 
 [![Build Status](https://dev.azure.com/tuyennn302090609/ProjectLabUdacity/_build/results?buildId=15&view=results)]
 
@@ -45,14 +45,13 @@ Instructions for running the Python project.  How could a user with no context r
 <img src="./evidence/makeall2.png" width="100%" />
 </p>
 
-* Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
 
+* Azure Pipelines
 <p>
 <img src="./evidence/CICD.png" width="100%" />
 </p>
 
-* Successful prediction from deployed flask app in Azure Cloud Shell.  [Use this file as a template for the deployed prediction](https://github.com/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/project/starter_files/flask-sklearn/make_predict_azure_app.sh).
-The output should look similar to this:
+* Successful prediction from deployed flask app in Azure Cloud Shell.
 
 ```bash
 udacity@Azure:~$ ./make_predict_azure_app.sh
