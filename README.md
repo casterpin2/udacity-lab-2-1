@@ -24,9 +24,9 @@ https://docs.google.com/spreadsheets/d/1nvfKlratlH5HdoyHMtGiBE5B94lRrCl1xKcTu5zm
 
 Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
 
-*Azure App Service
+* Azure App Service
 <p>
-<img src="./evidence/webapp.png" width="100%" />
+<img src="./evidence/webapp.PNG" width="100%" />
 </p>
 
 * Project cloned
