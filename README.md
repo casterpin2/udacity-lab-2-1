@@ -64,19 +64,19 @@ udacity@Azure:~$ ./make_predict_azure_app.sh
 * Output of streamed log files from deployed application
 
 <p>
-<img src="./evidence/webapplog.png" width="100%" />
+<img src="./evidence/webapplog.PNG" width="100%" />
 </p>
 
 > 
 
 * Locust load testing chart
 <p>
-<img src="./evidence/locust-chart.png" width="100%" />
+<img src="./evidence/locust-chart.PNG" width="100%" />
 </p>
 
 * Locust load testing statics
 <p>
-<img src="./evidence/locust_report.png" width="100%" />
+<img src="./evidence/locust_report.PNG" width="100%" />
 </p>
 
 ## Enhancements
