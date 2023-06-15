@@ -29,12 +29,12 @@ Instructions for running the Python project.  How could a user with no context r
 <img src="./evidence/webapp.png" width="100%" />
 </p>
 
-* Project cloned into Azure Cloud Shell
+* Project cloned
 <p>
 <img src="./evidence/clone code.png" width="100%" />
 </p>
 
-* Passing tests that are displayed after running the `make all` command from the `Makefile` and Output of a test run
+* Passing tests  `make all`
 <p>
 <img src="./evidence/make all.png" width="100%" />
 </p>
