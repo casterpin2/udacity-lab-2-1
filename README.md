@@ -2,12 +2,9 @@
 
 Building a CI/CD Pipeline in Udacity Cloud DevOps using Microsoft Azure course
 
-* Github Actions
+* 
 [![Github Actions](https://github.com/casterpin2/udacity-lab-2-1/actions/workflows/python-publish.yml/badge.svg)](https://github.com/casterpin2/udacity-lab-2-1/actions/workflows/python-publish.yml)
 
-
-* Azure DevOps Pipeline
-https://dev.azure.com/tuyennn302090609/ProjectLabUdacity/_build/results?buildId=13&view=results
 
 ## Project Plan
 <TODO: Project Plan
